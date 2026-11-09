@@ -8,6 +8,7 @@
 *.fdb_latexmk
 *.bbl
 *.blg
+*.pdf
 
 # Archivos de SO / Editores
 .DS_Store
